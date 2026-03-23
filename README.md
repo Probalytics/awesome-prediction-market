@@ -107,6 +107,8 @@ Polymarket alert bots, Telegram bots, and automated tools for prediction market 
 
 | Bot | Platform | Type | Status | Link |
 |-----|----------|------|--------|------|
+| **PolyCop** | Telegram | Copy Trading Bot | 🟢 Live | [@PolyCop_BOT](https://t.me/PolyCop_BOT?start=ref_XIOF22QD) |
+| **Polygun** | Telegram | Copy Trading Bot | 🟢 Live | [@PolyGunSniperBot](https://t.me/PolyGunSniperBot?start=ref_gauravzen) |
 | **OK Dot Bet Bot** | Telegram | Bot | 🟢 Live | [@okdotbet_bot](https://t.me/okdotbet_bot?start=ref_BPP3DQ) |
 | **Trade Poly Bot** | Telegram | Bot | 🟢 Live | [@TradePolyBot](https://t.me/TradePolyBot?start=ref_gn836rp) |
 | **Predictify Bot** | Telegram | Bot | 🟢 Live | [@Predictify_bot](https://t.me/Predictify_bot?start=gaurav_zen) |
